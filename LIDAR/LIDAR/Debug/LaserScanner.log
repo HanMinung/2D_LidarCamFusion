@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(LaserScanner.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Function.c
+  Initialize.c
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\Initialize.c(32,20): warning C4013: 'CheckStop'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\Initialize.c(88,2): warning C4013: 'lsr_Initialize'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  LaserInterface.c
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\LaserInterface.c(99,20): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\LaserInterface.c(99,17): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\LaserInterface.c(321,9): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+  main.c
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\main.c(21,3): warning C4013: 'MemWrite'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\main.c(31,2): warning C4013: 'WriteData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\main.c(37,2): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  manage.c
+  MemWrite.c
+  ReadData.c
+  SharedMem.c
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\SharedMem.c(28,11): warning C4098: 'SharedMem_CREATE': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\SharedMem.c(53,11): warning C4098: 'SharedMem_OPEN': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\LaserScanner\SharedMem.c(64,11): warning C4098: 'SharedMem_OPEN': 'void' 함수에서 값을 반환하고 있습니다.
+  WriteData.c
+  코드를 생성하고 있습니다...
+  LaserScanner.vcxproj -> C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\Laserscanner_NO_NIMAX\Debug\LIDAR.exe

@@ -1,0 +1,23 @@
+﻿DAQ.obj : error LNK2019: DAQmxStopTaskdaq_StopTask 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2001: 확인할 수 없는 외부 기호 DAQmxStopTask
+DAQ.obj : error LNK2019: DAQmxResetDevicedaq_Initialize 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxCreateTaskConfigure_AcquiSamples 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxStartTaskStart_AcquiSamples 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxClearTaskStop_AcqOneSample 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxCreateAIVoltageChanConfigure_AcquiSamples 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxCreateAOVoltageChanConfigure_WriteVoltage 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxCreateDOChanConfigure_WriteDigital 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxReadAnalogF64Read_AcqSamples 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxReadAnalogScalarF64Read_AcqOneSample 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxWriteAnalogF64Write_WriteVoltage 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxWriteDigitalLinesWrite_WriteDigital 함수에서 참조되는 확인할 수 없는 외부 기호
+NIFunction.obj : error LNK2019: DAQmxGetExtendedErrorInfoErrChk 함수에서 참조되는 확인할 수 없는 외부 기호
+RadarInterface.obj : error LNK2019: nxCreateSessionrdr_Configuration 함수에서 참조되는 확인할 수 없는 외부 기호
+RadarInterface.obj : error LNK2019: nxSetPropertyrdr_Configuration 함수에서 참조되는 확인할 수 없는 외부 기호
+RadarInterface.obj : error LNK2019: nxReadFramerdr_CheckConfigResult 함수에서 참조되는 확인할 수 없는 외부 기호
+RadarInterface.obj : error LNK2019: nxWriteFramerdr_Configuration 함수에서 참조되는 확인할 수 없는 외부 기호
+RadarInterface.obj : error LNK2019: nxClearPrintStat 함수에서 참조되는 확인할 수 없는 외부 기호
+RadarInterface.obj : error LNK2019: nxStatusToStringPrintStat 함수에서 참조되는 확인할 수 없는 외부 기호
+NIDAQmx.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+nixnet.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\ycp12\OneDrive\바탕 화면\PC 통신\UDP통신_cy\1. Lidar_TCP\x64\Debug\LaserScanner.exe : fatal error LNK1120: 19개의 확인할 수 없는 외부 참조입니다.

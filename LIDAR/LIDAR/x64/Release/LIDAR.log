@@ -1,0 +1,5 @@
+﻿  LaserInterface.c
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\LIDAR\LIDAR\LaserInterface.c(99,20): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\LIDAR\LIDAR\LaserInterface.c(99,17): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\LIDAR\LIDAR\LaserInterface.c(321,9): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+LINK : fatal error LNK1104: 'C:\Users\gdnss\Documents\gdnss11\002_Study\HADA\source\HADA2\src\LIDAR\x64\Release\LIDAR.exe' 파일을 열 수 없습니다.

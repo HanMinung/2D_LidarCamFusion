@@ -1,0 +1,25 @@
+﻿  consoleDesign.c
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\consoleDesign.c(16,39): warning C4244: '=': 'double'에서 'SHORT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Function.c
+  Initialize.c
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\Initialize.c(33,20): warning C4013: 'CheckStop'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\Initialize.c(89,2): warning C4013: 'lsr_Initialize'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  LaserInterface.c
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\LaserInterface.c(99,20): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\LaserInterface.c(99,17): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\LaserInterface.c(321,9): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+  main.c
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\main.c(23,3): warning C4013: 'MemWrite'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\main.c(33,2): warning C4013: 'WriteData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\main.c(39,2): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  manage.c
+  MemWrite.c
+  ReadData.c
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\ReadData.c(62,2): warning C4013: 'chdir'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  SharedMem.c
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\SharedMem.c(28,11): warning C4098: 'SharedMem_CREATE': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\SharedMem.c(53,11): warning C4098: 'SharedMem_OPEN': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\LIDAR\SharedMem.c(64,11): warning C4098: 'SharedMem_OPEN': 'void' 함수에서 값을 반환하고 있습니다.
+  WriteData.c
+  코드를 생성하고 있습니다...
+  LIDAR.vcxproj -> C:\Users\HADA\Desktop\Noh\2DLIDAR_CAM_ALIGNMENT\LIDAR\Debug\LIDAR.exe
